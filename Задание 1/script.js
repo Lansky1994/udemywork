@@ -1,4 +1,3 @@
-/*
 let money = prompt('Ваш бюджет на месяц', '100000$'),
     year = prompt('Введите год', '1994'),
     month = prompt('Введите месяц', '03'),
@@ -34,7 +33,9 @@ alert(appData.budget / 30);
 
 console.log(money);
 console.log(time);
-*/
+
+
+/*
 let num = 39;
 switch(num){
     case num < 49:
@@ -50,6 +51,6 @@ switch(num){
         console.log('Ne tak');
         break;
 }
-
+*/
 
 
